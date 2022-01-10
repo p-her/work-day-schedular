@@ -15,9 +15,11 @@ A screenshot of the web application's apperance and functionality:
 ![screenshot](./assets/workday.png)
 
 ## Website
+https://p-her.github.io/work-day-schedular/
 
 
-
+## Github Link
+https://github.com/p-her/work-day-schedular
 
 
 
